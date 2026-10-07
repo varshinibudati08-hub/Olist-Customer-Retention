@@ -1,0 +1,6 @@
+segment,customers,avg_spend,total_revenue,revenue_share_%
+At Risk Repeat,1252,301.0,376830.0,2.4
+Champions,1549,314.7,487527.2,3.2
+Lost,23589,63.9,1506221.1,9.8
+Lost High-Value,21670,264.4,5729086.7,37.1
+New Customers,45298,161.7,7322796.7,47.5
